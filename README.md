@@ -1,4 +1,4 @@
-# Profile and Links
+# Sharkeonix
 ### Description
 Hello there, I am Nick Lorenz aka Sharkeonix. I am a Penetration Tester and Information- / IT-Security Researcher as well as a Speaker regarding the mentioned topics.
 
