@@ -11,7 +11,7 @@ Hello there, I am Nick Lorenz aka Sharkeonix. I am a Penetration Tester and Info
 <br>
 
 ## Projects
-### Project Leader: OWASP Top 10 Insider Threats - [Website](https://owasp.org/www-project-top-10-insider-threats/) | [GitHub](https://github.com/OWASP/www-project-top-10-insider-threats/tree/main)
+### Project Leader and Lead Author: OWASP Top 10 Insider Threats - [Website](https://owasp.org/www-project-top-10-insider-threats/) | [GitHub](https://github.com/OWASP/www-project-top-10-insider-threats/tree/main)
 
 <br>
 
