@@ -1,4 +1,6 @@
 # Sharkeonix
+![LinkedIn-Banner-v1](https://github.com/user-attachments/assets/d0f199b2-22a8-42d0-8bba-328019e0b921)
+
 ### Description
 Hello there, I am Nick Lorenz aka Sharkeonix. I am a Penetration Tester, Security Researcher, Speaker and OWASP Project Leader for Infrastructure Security Risks.
 
