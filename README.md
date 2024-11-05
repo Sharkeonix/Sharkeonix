@@ -5,7 +5,7 @@ Hello there, I am Nick Lorenz aka Sharkeonix. I am a Penetration Tester, Securit
 <br>
 
 ## Social Media / Connect
-### LinkedIn [@NickLorenz](https://www.linkedin.com/in/nick-lorenz-16b211222/)
+### LinkedIn [@NickLorenz](https://www.linkedin.com/in/nicklorenz/)
 ### GitHub [@Sharkeonix](https://github.com/Sharkeonix/)
 
 <br>
